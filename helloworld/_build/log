@@ -1,0 +1,5 @@
+# dune utop helloworld
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /home/murgino/.cache/dune/db
+# Workspace root: /home/murgino/ocaml-challenge/helloworld
